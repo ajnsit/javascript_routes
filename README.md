@@ -2,6 +2,8 @@ JavascriptRoutes
 ================
 Rails routes get generated in JavaScript...
 
+***IMPORTANT: This repository is deprecated and not under active development anymore***
+
 
 How it works
 ============
